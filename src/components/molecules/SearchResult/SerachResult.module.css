@@ -1,0 +1,15 @@
+.resultlist{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+    
+}
+.list{
+    padding: 10px 20px;
+}
+
+.list:hover{
+    background-color: #efefef;
+}

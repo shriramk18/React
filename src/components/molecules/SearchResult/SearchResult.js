@@ -7,7 +7,7 @@ function SearchResult({ result }) {
       {result.map((result, id) => {
         return <div className={styles.list}
           key={id}>
-            {result.name}
+            {result.state_name}
         </div>
       })}
      
